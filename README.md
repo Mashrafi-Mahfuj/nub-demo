@@ -1,4 +1,2 @@
 # nub-demo
-Author- Mashrafi Mahfuj 
-<br>
-kabbo
+Author- Mashrafi Mahfuj (kabbo)
